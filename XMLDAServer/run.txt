@@ -1,0 +1,2 @@
+svcutil /syncOnly /serviceContract /targetClientVersion:Version35 
+	/serializer:XmlSerializer /wrapped OpcXmlDa1.00.wsdl
